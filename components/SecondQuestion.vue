@@ -22,12 +22,12 @@
       <p class="text-left py-4 mx-60">
         In the next stage, the development project will be initialized, laying
         out the groundwork, in other words creating a repository, establishing
-        the scaffolding and divinding the work amongst developers. I would
+        the scaffolding and dividing the work amongst developers. I would
         suggest using an Asana taskboard to manage this workflow and prioritize
-        tasks and maintain clear communication lines between the tech team. Part
-        of this development process will involve coding, creating templates on
-        the CMS and working on smaller commits and pushes, which lends itself to
-        faster peer review and iteration.
+        tasks and help maintain clear communication lines between the tech team.
+        Part of this development process will involve coding, creating templates
+        on the CMS and working on smaller commits and pushes, which lends itself
+        to faster peer review and iteration.
       </p>
       <p class="text-left py-4 mx-60">
         In the third stage, bug fixes and design finalizations should be
